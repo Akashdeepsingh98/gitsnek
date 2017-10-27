@@ -29,7 +29,7 @@ Game::Game( MainWindow& wnd ):
 	rng(std::random_device()()),
 	snek(delta_loc),
 	goal(rng,brd,snek)
-{
+{//asdfasdfgjkl
 }
 
 void Game::Go()
